@@ -31,7 +31,7 @@ Before diving into development, ensure you have the following tools and configur
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
 ```sh
-git clone https://github.com/nonceblox/maiv-smart-token
+git clone https://github.com/nonceblox/maiv-token
 ```
 
 2. **Navigate to the project directory**
